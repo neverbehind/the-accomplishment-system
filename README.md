@@ -1,1 +1,3 @@
-# the-accomplishment-system
+# The Accomplishment System
+
+[Quick Start](/quick-start)

@@ -1,0 +1,16 @@
+
+title: The Accomplishment System
+subTitle: This is a great project.
+
+template:
+    url: https://github.com/CouscousPHP/Template-ReadTheDocs
+
+# The left menu bar
+menu:
+    items:
+        quick-start:
+            text: Quick Start
+            relativeUrl: quick-start
+        pattern:
+            text: The Pattern
+            relativeUrl: the-pattern
