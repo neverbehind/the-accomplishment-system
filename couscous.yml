@@ -17,3 +17,9 @@ menu:
         tracker:
             text: Accomplisment Tracker™
             relativeUrl: the-system/accomplishment-tracker
+        playbooks:
+            text: Playbooks
+            relativeUrl: the-system/playbooks
+        review-cycle:
+            text: Review Cycles
+            relativeUrl: the-system/review-cycle
