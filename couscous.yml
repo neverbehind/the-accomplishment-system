@@ -23,3 +23,6 @@ menu:
         review-cycle:
             text: Review Cycles
             relativeUrl: the-system/review-cycle
+        glossary:
+            text: Glossary
+            relativeUrl: glossary

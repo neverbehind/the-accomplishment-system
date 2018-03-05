@@ -2,7 +2,7 @@
 
 In order to get the most out of the system you need 3 things in place.
 
-1. Daily Log Journal
+1. Daily Commitment Journal
 1. One or more Accomplishment Tracker™ Pages or Notebooks
 1. Review Cycle Grids
 
@@ -10,9 +10,9 @@ Below are summaries of each of these things. Once you have these in place. Only 
 remains, a daily routine. Read more about [Daily Routine](/the-system/daily-routine), it's 
 one of the secrets to success.
 
-## Daily Log Journal
+## Daily Commitment Journal
 
-Having a daily log and routine is crucial for success. For this journal, you can use just about anything that you feel comfortable with for this. Most "Todo List" applications can work, but to be completely honest, a $.50 composition notebook works very well. 
+Having a daily commitment journal and routine is crucial for success. For this journal, you can use just about anything that you feel comfortable with for this. Most "Todo List" applications can work, but to be completely honest, a $.50 composition notebook works very well. 
 
 Here are the rules, if you use a simple notebook:
 1. Each day dedicate 1 page for your `Commitment List` (Some people call this a todo list).
@@ -28,7 +28,7 @@ As you use you daily log more and more, you may find it useful to have
 bookmarks for `Today` and `Tomorrow` so, you can easily find your place 
 throughout the day, and week.
 
-Read more about [Daily Log Journals](/the-system/daily-log)
+Read more about [Daily Commitment Journals](/the-system/daily-commitment-journal)
 
 ## Accomplishment Tracker™ Pages and Notebooks
 

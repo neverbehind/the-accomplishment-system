@@ -13,10 +13,10 @@ When you don't get all the things done that you committed to, you need to decide
 move them to today's list, or based on the amount of commitments you have, maybe you need to 
 move them to a future day.
 
-> One of the purposes of the Daily Log Journal is to help you *not commit* to too much stuff. As
+> One of the purposes of the Daily Commitment Journal is to help you *not commit* to too much stuff. As
 you use it day after day, you will notice that some of the tasks are bigger and you will 
 need to focus on them for a significant portion of the day. So, if someone asks you to help
-with something else, you will develop a habit of checking your daily log page for the day
+with something else, you will develop a habit of checking your daily commitments page for the day
 before you commit to them, and maybe say "Sorry, I don't have time to today, but I can 
 definitely help on Wednesday." You then write the commitment on Wednesday's page, rather than 
 adding something to today's list that you will just have to end of moving anyways.
