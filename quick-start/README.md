@@ -20,11 +20,11 @@ Here are the rules, if you use a simple notebook:
 
 As you plan your day, you commit to things you can get done that day with the 
 time you have, writing them on the daily commitment list. As people ask you to 
-do things, and you think you can complete it that day, you write it in you
-commitment list. If you don't think you can get to it today, then you can 
-write it on a future day's page. 
+do things, and you think you can complete it that day, you add it to your
+commitment list. If you don't think you can honestly get to it today, then you add it to a 
+future day's page.
 
-As you use you daily log more and more, you may find it useful to have 
+As you use your daily commitment list more and more, you may find it useful to have 
 bookmarks for `Today` and `Tomorrow` so, you can easily find your place 
 throughout the day, and week.
 
@@ -32,17 +32,19 @@ Read more about [Daily Commitment Journals](/the-system/daily-commitment-journal
 
 ## Accomplishment Tracker™ Pages and Notebooks
 
-Accomplishment Tracker™ pages and notebooks are utilities, to help you keep 
-track of your progress for a particular thing that you are trying to achieve. 
+Accomplishment Tracker™ pages and notebooks are tools to help you keep 
+track of your progress for a particular initiative that you are working on.
 For things that are smaller, you can just use one page, and for bigger
 projects that might take months or years to accomplish, you probably need 
 a notebook or binder. 
 
-Following the Accomplishment Pattern, here are the parts of an Accomplishment Tracker™ page or notebook:
+Following the Accomplishment Pattern, here are the sections of an Accomplishment Tracker™ page or notebook:
 1. Dream
 1. Learn
 1. Plan
 1. Do
+
+The following is a summary of the purpose of each and how you use them.
 
 ### Dream
 
@@ -51,7 +53,7 @@ The section of the page or notebook contains:
   * 1-3 Sentences explaining your vision for what you want to acheive.
 * Success Criteria
   * List of things that will need to be in place for you to feel satisfied at 
-the end
+the end.
 * Team Members List
   * If you are working with more than yourself, or other people will be 
  helping, listing them can help.
@@ -60,9 +62,11 @@ the end
  on something.
   * Choose Daily, Weekly, or Monthly
 
+Read our definition of [Dream](/glossary#dream)
+
 ### Learn
 
-This learn section is just an open place for capturing anything important as you learn or create things.
+This learn section is just an open place for capturing anything important as you learn or create things. We list any resources that we have, or will need, to work through a plan.
 
 ### Plan
 
@@ -76,12 +80,15 @@ learn more about your overall dream. This section holds the
 "State of your Dream," meaning that at anytime, you can glance at this section 
 and see what has been done, and what there is left to do. 
 
+Read our definition of [Plan](/glossary#plan), [Milestone](/glossary#milestone), [Goal](/glossary#goal), and [Task](/glossary#task)
+
 ### Do
 
 The Do section is all about recording progress, in the form of Commitments and Progress Logs. As you commit to things that you can do that will move your plan along, you can record that commitment in the Commitments List, and as you make progress with something, you can write a little blub in the progress log about the progress that was made. This is especially great for projects where you are working with a group of people. The Do section is meant to be a logs of notes and comments from yourself or the team that is working through.
 
-Read more about [Accomplishment Tracker](/the-system/accomplishment-tracker)
+Read our definition of [Commitments](/glossary#commit-commitments)
 
+Read more about [Accomplishment Tracker](/the-system/accomplishment-tracker)
 
 ## Review Cycle Grids
 

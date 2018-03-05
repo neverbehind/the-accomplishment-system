@@ -13,9 +13,13 @@
 
 To accomplish something we simply need to successfully complete something. The real trick here is how we define success, or what you consider a successful outcome. This is why the pattern dictates that we define the success criteria so we have a clear understanding what we are aiming for.
 
+[Top](#the-language-of-accomplishment)
+
 ## Commit, Commitment
 
 A commitment is a agreement that you will dedicate some time to do something. There is a underlying expectation that once you do what you commit to do, you will report back that you have performed the desired activity.
+
+[Top](#the-language-of-accomplishment)
 
 ## Dream
 
@@ -23,13 +27,17 @@ Within the system, we use the word Dream to communicate the overall vision of th
 
 > This word is often preloaded with fantasy, or unrealistic expectations. Those in business may prefer to use words like vision, or strategy, so that they feel better about the initiative. Ee have found, though, that unless your come to grips with the fact that many times what you want is merely a dream in the early stages, we are tempted to jump into planning and implementing before truly understanding what we are trying to accomplish. When we do this, we risk failing to meet expectations, simply because we didn't have a clear dream outlined.
 
+[Top](#the-language-of-accomplishment)
+
 ## Goal
 
 Importantly, we differientiate goals from dreams in The Accomplishment System. Goals, simply put, are small acheivements we plan to make on our way to a larger dream. 
 
 It's important to note, that in the english language we use goals in many ways. We have found that it's important to only use the word goals when talking about realistic acheivements as we progress towards our dream.
 
-> Example: Many people may use this language "My goal this year is to loose weight." The majority of people that set this goal fail to accomplish it. Loosing weight is an outcome that is actually part of a larger dream. More accruately, they may want to loose weight, but the dream is much broader. A true goal, then, would be "by march, I will run each morning and not eat after 7pm everyday, so that I can loose 5 pounds each week."
+> Example: Many people may use this language "My goal this year is to loose weight." The majority of people that set this goal fail to accomplish it. Loosing weight is an outcome that is actually part of a larger dream. More accruately, they may want to loose weight, but the dream is much broader. A true goal, then, would be "until march, I will run each morning and not eat after 7pm everyday, so that I can loose 5 pounds each week."
+
+[Top](#the-language-of-accomplishment)
 
 ## Milestone
 
@@ -39,14 +47,24 @@ Milestones are related to goals. A milestone a specific outcome that proves that
 
 Defining and focusing on milestones can be very powerful.
 
+[Top](#the-language-of-accomplishment)
+
 ## Outcome
 
-An outcome is anything that is measurable or tangable that is produced as part of some action.
+An outcome is anything that is measurable or tangable that is produced as part of some action. We often use the word Artifact to decribe something that is produced by a given action or process.
+
+[Top](#the-language-of-accomplishment)
 
 ## Plan
 
 A plan is an ordered collection of milestones and goals. Each goal may have tasks that you outline that you think, or know, leads to specific outcomes.
 
+[Top](#the-language-of-accomplishment)
+
 ## Task
 
 A task is a unit of work, where a person knows what to do to finish or complete the work. This is important to note, it's only a task if we know what we need to do. A task may have more than one step to complete.
+
+> If we are not sure the effort or process to produce a specific outcome, it's not yet a task. The task maybe to research and build a process. 
+
+[Top](#the-language-of-accomplishment)
