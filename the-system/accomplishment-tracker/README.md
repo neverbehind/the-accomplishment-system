@@ -1,6 +1,6 @@
 # Accomplishment Tracker™ Pages and Notebooks
 
-> When it's not as simple as just getting it done.
+> When it's not as simple as just getting it done... you probably could use a tracker
 
 There are things that we need to do that require more time, require more people, 
 and have more than a couple steps. We may have a meeting, where we discuss the 
@@ -9,7 +9,7 @@ I didn't say divide **and** conquer. Because we plan, divvy up some tasks, and
 divide going our separate ways commiting **to do** the things that are necessary 
 for success.
 
-To reach the other side of the hill and arrive conquerers, that takes more than 
+To reach the other side of the hill and arrive as conquerers - that takes more than 
 just hope and good intentions. This is where The Accomplishment System helps
 to close the gap.
 
@@ -27,7 +27,7 @@ Following the Accomplishment Pattern, here are the parts of an Accomplishment Tr
 
 ## Dream
 
-The section of the page or notebook contains:
+The section of the tracker contains:
 * Dream Statement
   * 1-3 Sentences explaining your vision for what you want to acheive.
 * Success Criteria
@@ -36,14 +36,18 @@ the end
 * Team Members List
   * If you are working with more than yourself, or other people will be 
  helping, listing them can help.
+ > If you are working as a team. You will also need to designate the owner of the tracker. This person will be responsible for reviewing the tracker each review cycle.
 * A Review Cycle
   * This is how often you will review the dream, the plan, and commit to work 
  on something.
   * Choose Daily, Weekly, or Monthly
 
+
 ## Learn
 
 This learn section is just an open place for capturing anything important as you learn or create things.
+
+> We often list resources that we have or know we will need to accomplish our objectives.
 
 ## Plan
 
@@ -56,6 +60,8 @@ The Plan section is important to review regularly, as you commit to tasks, and
 learn more about your overall dream. This section holds the 
 "State of your Dream," meaning that at anytime, you can glance at this section 
 and see what has been done, and what there is left to do. 
+
+> See the [glossary](/glossary) for our definition of Plan, Milestones, Goals and Tasks
 
 ## Do
 

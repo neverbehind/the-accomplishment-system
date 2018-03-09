@@ -2,6 +2,10 @@
 
 The Accomplishment System is a collection of principles and tools that faciliate efficient progress towards a specific outcome.
 
+* [Principles](#priciples)
+* [Tools](#tools)
+
+
 ## Principles
 
 ### Principle #1 - If you want things to change, you must do something different
@@ -20,11 +24,12 @@ When we and those in our team commit to do specific things, it holds more weight
 
 When we take responsibility for the outcomes that we see in our vision of a future state, we open the door to creativity. When we ask ourselves, "what can I do to move this along?" magic happens.
 
+
 ## Tools
 
 ### Tool #1 - Daily Commitment Journal
 
-The Daily Commitment Journal or your Daily Log for short, is a simple notebook in which you keep the commitments you have made. 
+The Daily Commitment Journal or your Daily Log for short, can be as simple as a notebook in which you keep the commitments you have made.
 
 ### Tool #2 - The Accomplishment Tracker™ Notebooks and Pages
 

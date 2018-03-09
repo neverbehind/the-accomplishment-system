@@ -92,7 +92,7 @@ Read more about [Accomplishment Tracker](/the-system/accomplishment-tracker)
 
 ## Review Cycle Grids
 
-A Review Cycle Grid is a spredsheet type list of your Accomplishment Tracker™ 
+A Review Cycle Grid is a spreadsheet type list of your Accomplishment Tracker™ 
 pages and notebooks that you need to review at different intervals. 
 
 There are 3 main Review Cycle Grids

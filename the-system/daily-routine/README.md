@@ -3,7 +3,7 @@
 
 To be successful with the system, there is a daily routine that you have to make a habit. 
 
-Each day, you need to get you commitment list ready based on yesterday's list, any dreams 
+Each day, you need to get your commitment list ready based on yesterday's list, any dreams 
 and goals that you are working on, and any other commitments that you have made (i.e. 
 Family, Work, School, etc) 
 
@@ -31,7 +31,7 @@ Review Cycle Grids, each day you need to review all 3
 * Monthly (for today's day of the month)
 
 > For each of the Accomplishment Tracker™ review cycles, you will read through your DREAM, LEARN, 
-and PLAN sections committing to the next step in the plan. 
+and PLAN sections committing to the next step in the plan. Recording what you committed to do in the commitment section.
 
 ## Other Commitments
 
@@ -39,6 +39,10 @@ Our relationships with others are not generally something we have an Accomplishm
 for, but it's important to add them to your commitment list for the day. Personal and family 
 relationships need to be nurtured and commitments need to be kept to build trust and unity. So,
 make sure that you capture those commitments in your list as well as you review your day.
+
+## Calendar Events
+
+If you are someone that uses a calendar, then during your daily routine it's good to note that you have certain things on your calendar, because that may effect the time you have for other commitments.
 
 
 
