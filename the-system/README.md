@@ -33,11 +33,11 @@ The Daily Commitment Journal or your Daily Log for short, can be as simple as a 
 
 ### Tool #2 - The Accomplishment Tracker™ Notebooks and Pages
 
-Accomplishment Tracker™ notebooks and pages, known as "Trackers" are a documentation devices that allows you to track what you are trying to get done. They have a specfific format that we have found that facilitates progress. Read more about [Accomplishment Tracker™](/the-system/accomplishment-tracker) to get started.
+Accomplishment Tracker™ notebooks and pages, known as "Trackers" are a documentation devices that allows you to track what you are trying to get done. They have a specfific format that we have found that facilitates progress. Read more about [Accomplishment Tracker™](the-system/accomplishment-tracker) to get started.
 
 ### Tool #3 - Review Cycle Grids
 
-Review Cycle Grids are simple spreadsheet layouts that can be used to keep track of which Trackers you need to review today. There is a Daily Grid, Weekly Grid, and a Monthly Grid. As part of your [Daily Routine](/the-system/daily-routine) you mark off if you have reviewed the corresponding tracker for that Review Cycle (i.e. day, week, month, or year).
+Review Cycle Grids are simple spreadsheet layouts that can be used to keep track of which Trackers you need to review today. There is a Daily Grid, Weekly Grid, and a Monthly Grid. As part of your [Daily Routine](the-system/daily-routine) you mark off if you have reviewed the corresponding tracker for that Review Cycle (i.e. day, week, month, or year).
 
 ### Tool #4 - Playbooks
 

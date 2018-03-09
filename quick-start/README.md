@@ -7,7 +7,7 @@ In order to get the most out of the system you need 3 things in place.
 1. Review Cycle Grids
 
 Below are summaries of each of these things. Once you have these in place. Only 1 more thing
-remains, a daily routine. Read more about [Daily Routine](/the-system/daily-routine), it's 
+remains, a daily routine. Read more about [Daily Routine](the-system/daily-routine), it's 
 one of the secrets to success.
 
 ## Daily Commitment Journal
@@ -28,7 +28,7 @@ As you use your daily commitment list more and more, you may find it useful to h
 bookmarks for `Today` and `Tomorrow` so, you can easily find your place 
 throughout the day, and week.
 
-Read more about [Daily Commitment Journals](/the-system/daily-commitment-journal)
+Read more about [Daily Commitment Journals](the-system/daily-commitment-journal)
 
 ## Accomplishment Tracker™ Pages and Notebooks
 
@@ -62,7 +62,7 @@ the end.
  on something.
   * Choose Daily, Weekly, or Monthly
 
-Read our definition of [Dream](/glossary#dream)
+Read our definition of [Dream](glossary#dream)
 
 ### Learn
 
@@ -80,15 +80,15 @@ learn more about your overall dream. This section holds the
 "State of your Dream," meaning that at anytime, you can glance at this section 
 and see what has been done, and what there is left to do. 
 
-Read our definition of [Plan](/glossary#plan), [Milestone](/glossary#milestone), [Goal](/glossary#goal), and [Task](/glossary#task)
+Read our definition of [Plan](glossary#plan), [Milestone](glossary#milestone), [Goal](glossary#goal), and [Task](glossary#task)
 
 ### Do
 
 The Do section is all about recording progress, in the form of Commitments and Progress Logs. As you commit to things that you can do that will move your plan along, you can record that commitment in the Commitments List, and as you make progress with something, you can write a little blub in the progress log about the progress that was made. This is especially great for projects where you are working with a group of people. The Do section is meant to be a logs of notes and comments from yourself or the team that is working through.
 
-Read our definition of [Commitments](/glossary#commit-commitments)
+Read our definition of [Commitments](glossary#commit-commitments)
 
-Read more about [Accomplishment Tracker](/the-system/accomplishment-tracker)
+Read more about [Accomplishment Tracker](the-system/accomplishment-tracker)
 
 ## Review Cycle Grids
 
@@ -106,5 +106,5 @@ There are 3 main Review Cycle Grids
    * List of Monthly Trackers that has a Day of the month, and a box for each month in a year
    * Create a new Monthly Review Cycle Grid every year
 
-Read more about [Review Cycle Grids](/the-system/review-cycle)
+Read more about [Review Cycle Grids](the-system/review-cycle)
 
