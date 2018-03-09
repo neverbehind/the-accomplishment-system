@@ -24,12 +24,12 @@ There are 3 main Review Cycle Grids
 
 Daily Review Cycle Grid
 
-![Daily Review Grid](assets/daily-review-grid.png "Daily Review Grid")
+![Daily Review Grid](../assets/daily-review-grid.png "Daily Review Grid")
 
 Weekly Review Cycle Grid
 
-![Weekly Review Grid](assets/weekly-review-grid.png "Weekly Review Grid")
+![Weekly Review Grid](../assets/weekly-review-grid.png "Weekly Review Grid")
 
 Monthly Review Cycle Grid
 
-![Monthly Review Grid](assets/monthly-review-grid.png "Monthly Review Grid")
+![Monthly Review Grid](../assets/monthly-review-grid.png "Monthly Review Grid")

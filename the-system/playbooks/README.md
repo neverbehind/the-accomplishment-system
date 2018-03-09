@@ -39,4 +39,4 @@ If there are any scheduling or sequencing information or notes they can go here.
 
 ## Examples
 
-See this playbooks about how to [Create Wordpress Website for a Locksmith](playbooks/example)
+See this playbooks about how to [Create Wordpress Website for a Locksmith](example)

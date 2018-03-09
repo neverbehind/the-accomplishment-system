@@ -61,7 +61,7 @@ learn more about your overall dream. This section holds the
 "State of your Dream," meaning that at anytime, you can glance at this section 
 and see what has been done, and what there is left to do. 
 
-> See the [glossary](glossary) for our definition of Plan, Milestones, Goals and Tasks
+> See the [glossary](../glossary) for our definition of Plan, Milestones, Goals and Tasks
 
 ## Do
 
