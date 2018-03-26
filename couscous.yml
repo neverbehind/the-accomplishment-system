@@ -1,6 +1,6 @@
 
 title: The Accomplishment System
-subTitle: Do cool stuff, that you have always dreamed of.
+subTitle: A system for those serious about getting things done.
 
 # The left menu bar
 menu:
@@ -17,12 +17,12 @@ menu:
         tracker:
             text: Accomplisment Tracker™
             relativeUrl: the-system/accomplishment-tracker
-        playbooks:
-            text: Playbooks
-            relativeUrl: the-system/playbooks
         review-cycle:
             text: Review Cycles
             relativeUrl: the-system/review-cycle
+        playbooks:
+            text: Playbooks
+            relativeUrl: the-system/playbooks
         glossary:
             text: Glossary
             relativeUrl: glossary
